@@ -2,20 +2,19 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
 
-# 
 ```javascript
 const soufiane = {
     name     : "Soufiane Bourziq",
     school   : "1337 Coding School — UM6P / 42 Network",
-    location : "Morocco 🇲🇦",
+    location : "Ben Guerir, Morocco 🇲🇦",
     status   : "Student & Builder",
 };
 ```
 
-[![GitHub followers](https://img.shields.io/github/followers/sbourziq?label=Follow&style=social)](https://github.com/sbourziq)
-![Profile Views](https://komarev.com/ghpvc/?username=sbourziq&color=blueviolet&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/sbourziq1337?label=Follow&style=social)](https://github.com/sbourziq1337)
+![Profile Views](https://komarev.com/ghpvc/?username=sbourziq1337&color=blueviolet&style=flat)
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/sbourziq" alt="sbourziq's 42 stats" /></a>
+[![sbourziq's 42 stats](https://badge.mediaplus.ma/levi/sbourziq)](https://github.com/oakoudad/badge42)
 
 </div>
 
@@ -81,8 +80,8 @@ int     main(void)
 
 <div align="center">
 
-![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbourziq&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbourziq&layout=compact&theme=tokyonight&hide_border=true)
+![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbourziq1337&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbourziq1337&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -92,7 +91,7 @@ int     main(void)
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sbourziq&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sbourziq1337&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -100,8 +99,8 @@ int     main(void)
 
 ### 📫 Reach Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sbourziq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbourziq)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sbourziq1337)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soufiane-bourziq-391213266/)
 
 ---
 
