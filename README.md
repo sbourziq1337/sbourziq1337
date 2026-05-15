@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&width=500&lines=Hi+I'm+Soufiane+Bourziq;1337+%7C+42+Network+Student;DevOps+%7C+AI+%7C+Low-level+C)](https://git.io/typing-svg)
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/sbourziq" alt="sbourziq's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/black/sbourziq" alt="sbourziq's 42 stats" /></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sbourziq1337&color=00ff41&style=flat)
 
